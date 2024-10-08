@@ -1,0 +1,1 @@
+Welcome to the House Price Prediction repository! This project uses machine learning techniques to predict the prices of houses based on various features such as square footage, number of bedrooms, location, etc. 
